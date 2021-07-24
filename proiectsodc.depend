@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623720003 source:c:\users\youtu\desktop\proiectsodc\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
